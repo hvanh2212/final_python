@@ -1,0 +1,10 @@
+  familles:
+      parents: ["parent1", "parent2"]
+      enfants: ["enfant1", "enfant2"]
+  menages:
+      personne_de_reference: "parent1"
+      conjoint: "parent2"
+      enfants: ["enfant1", "enfant2"]
+  foyers_fiscaux:
+      declarants: ["parent1", "parent2"]
+      personnes_a_charge: ["enfant1", "enfant2"]

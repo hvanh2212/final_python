@@ -1,0 +1,10 @@
+,ticket_id,ticket_name,ticket_description,created_time,update_time,status_name,assignee_id,assigneer_id,category_name,priority_name
+0,08628e8c-9961-4092-ab1a-ef904f978269,amusement,children,2022-06-10 18:10:41.000000,2022-06-12 07:48:52.682384,On-going,e9dfbf84-b5b4-4ebe-ad28-8a747841cb28,e9dfbf84-b5b4-4ebe-ad28-8a747841cb28,the amusement,Low
+1,b3fb2730-e74c-4f5c-b1b8-1e7d4cacc30d,cinema,the movie,2022-06-12 03:24:46.861094,,New,d9c33597-8052-4428-a8f1-896d76a8172f,d9c33597-8052-4428-a8f1-896d76a8172f,action film,Low
+2,e12a82bc-cf1d-45ed-83c2-bcbc485f1380,theatre,theatre ticket,2022-06-12 07:42:26.330194,2022-06-12 07:53:47.826513,On-going,d9c33597-8052-4428-a8f1-896d76a8172f,d9c33597-8052-4428-a8f1-896d76a8172f,the theatre,High
+3,96e5b8f5-85e0-4327-a905-fc113a90797c,train,the train,2022-06-12 07:42:26.330194,2022-06-12 17:34:01.060740,Done,d9c33597-8052-4428-a8f1-896d76a8172f,d9c33597-8052-4428-a8f1-896d76a8172f,train ticket,Low
+4,f97b5997-507a-4fa3-abd4-8994e3277135,zoo,the zoo,2022-06-12 17:23:06.730262,,Done,88330b35-2c84-4749-bfd8-fb886d313da0,88330b35-2c84-4749-bfd8-fb886d313da0,the zoo,Medium
+5,80fb302b-c990-40bb-b4b1-f4347b45449d,theatre,the theatre,2022-06-12 17:30:47.346148,,Done,e9dfbf84-b5b4-4ebe-ad28-8a747841cb28,e9dfbf84-b5b4-4ebe-ad28-8a747841cb28,theatre ticket,Medium
+6,c07e04ec-759b-4ce4-bb8e-64ce66d8ca2e,train,Paris to Lodon,2022-06-12 17:30:47.346148,,New,e9dfbf84-b5b4-4ebe-ad28-8a747841cb28,e9dfbf84-b5b4-4ebe-ad28-8a747841cb28,train ticket,Medium
+7,7e6e23e6-8781-404c-8145-787ca9e40f6f,train,Berlin to Lodon,2022-06-12 17:30:47.346148,,On-going,e9dfbf84-b5b4-4ebe-ad28-8a747841cb28,e9dfbf84-b5b4-4ebe-ad28-8a747841cb28,train ticket,Medium
+8,7724e84e-91c6-42b4-826c-5938aa7ada30,theatre,the theatre,2022-06-12 17:30:47.346148,,On-going,88330b35-2c84-4749-bfd8-fb886d313da0,88330b35-2c84-4749-bfd8-fb886d313da0,theatre ticket,Medium
